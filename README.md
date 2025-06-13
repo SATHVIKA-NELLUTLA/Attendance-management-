@@ -29,7 +29,7 @@ A web-based Attendance Management System built with Django framework. This syste
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
-git clone https://github.com/SATHVIKA-NELLUTLA/Attendance_Management-django.git
+git clone https://github.com/SATHVIKA-NELLUTLA/Attendance-management-.git
 cd attendance-management-django
 
 Activate Virtual Environment
